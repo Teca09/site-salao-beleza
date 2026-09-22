@@ -4,7 +4,7 @@ Site fictício desenvolvido como peça de portfólio para o nicho de **beleza & 
 (cabeleireiros, barbearias, spas, esteticistas e afins que precisam de mostrar serviços,
 preços e trabalhos realizados).
 
-🔗 **Demo ao vivo:** _(adicionar link do GitHub Pages depois do deploy)_
+🔗 **Demo ao vivo:** _[Site de beleza & bem-estar — FEELING GOOD](https://teca09.github.io/site-salao-beleza/)_
 
 ## Sobre o projeto
 
